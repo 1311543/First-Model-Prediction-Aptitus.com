@@ -1,2 +1,2 @@
-# First-Model-Prediction-Aptitus.com
+# First-Model-Prediction
 Applcant Rank
